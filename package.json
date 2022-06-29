@@ -7,6 +7,7 @@
     "start": "node app2.js",
     "app":"node app.js",
     "app2":"node app2.js",
+    "app3":"node app3.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
